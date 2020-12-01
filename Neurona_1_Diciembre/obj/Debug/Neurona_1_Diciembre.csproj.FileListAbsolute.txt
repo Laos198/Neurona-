@@ -1,0 +1,10 @@
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Neurona_1_Diciembre\obj\Debug\Neurona_1_Diciembre.csprojAssemblyReference.cache
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Neurona_1_Diciembre\obj\Debug\Neurona_1_Diciembre.Form1.resources
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Neurona_1_Diciembre\obj\Debug\Neurona_1_Diciembre.Properties.Resources.resources
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Neurona_1_Diciembre\obj\Debug\Neurona_1_Diciembre.csproj.GenerateResource.cache
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Neurona_1_Diciembre\obj\Debug\Neurona_1_Diciembre.csproj.CoreCompileInputs.cache
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Neurona_1_Diciembre\bin\Debug\Neurona_1_Diciembre.exe.config
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Neurona_1_Diciembre\bin\Debug\Neurona_1_Diciembre.exe
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Neurona_1_Diciembre\bin\Debug\Neurona_1_Diciembre.pdb
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Neurona_1_Diciembre\obj\Debug\Neurona_1_Diciembre.exe
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Neurona_1_Diciembre\obj\Debug\Neurona_1_Diciembre.pdb
